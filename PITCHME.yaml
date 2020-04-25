@@ -1,0 +1,14 @@
+title            : "Gentle Introduction to Scala and FP - Webhack, April, 2020"
+theme-background : [ "#FFFFFF" ]
+theme-headline   : [ "Montserrat", "#000", "none", "#000", "100", "120", "15" ]
+theme-byline     : [ "Montserrat", "#000", "none", "#000", "100", "110", "15" ]
+theme-text       : [ "Montserrat", "#000", "none", "#000", "100", "100", "15" ]
+theme-links      : [ "#5889C8", "#5254F7" ]
+theme-code       : [ "Victor Mono", "100", "120" ]
+highlight        : atom-one-light
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+theme-override   : assets/css/PITCHME.css
+layout           : center
+charts           : true
+footnote         : " "  
